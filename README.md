@@ -26,9 +26,9 @@ Process:
 
 7.Then copy this code and paste it ,the console window show a source and design option.
 
-8.Click design and run this program .
+8.Click design and run this program.
 
-9. You can see a GUI interface for tempeture conveter.
+9.You can see a GUI interface for tempeture conveter.
  
-10. Now you can change tempature Celsius and fahrenheit.
+10.Now you can change tempature Celsius and fahrenheit.
 
