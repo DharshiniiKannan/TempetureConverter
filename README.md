@@ -9,9 +9,10 @@ Features:
 1. Convert tempertures between Celsius,Fahrenheit.
 2. User friendly commandline interface.
 
-Note: If you want run this project you need a eclipse tool and GUI implement install.
+**Note: If you want run this project you need a eclipse tool and GUI implement install.
 
 Process:
+
 1.Open a eclipse tool and create a java project and package.
 
 2.Go to help -> install new software -> new tap for open click your software its depend one your eclipse version.
